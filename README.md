@@ -1,5 +1,4 @@
 # TASK2-MAP
-# arm-package-installing
 ## map by Turtlebot3
 * i go to http://turtlebot3.robotis.com/ 
 * i entered the PCsetup from Quick Start Guide and i run all the code in that page then from the simulation 
